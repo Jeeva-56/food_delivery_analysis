@@ -1,4 +1,3 @@
--- Active: 1779699435542@@127.0.0.1@3306@food_delivery_analysis
 # 1. Identify top-spending customers
 
 SELECT
